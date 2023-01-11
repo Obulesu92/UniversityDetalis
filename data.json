@@ -1,0 +1,90 @@
+[
+    {
+        "Id":"11759",
+        "CompanyName":"3i Group plc",
+        "FilesProcessed":"2",
+        "LastReportedPeriod":"2021FY",
+        "LastFileProcessingDate":"2021-05-13T00:00:00",
+        "Sector":"",
+        "Country":"GB",
+        "Actions":"",
+        "QAPending":[
+          {
+            "DocumentId":"62920",
+            "NameOfFiling":"2019FY_IR_PDF.pdf"
+          },
+          
+          {
+            "DocumentId":"62919",
+            "NameOfFiling":"2020FY_IR_PDF.pdf"
+          }
+      ]  
+    },
+      
+    {
+      "Id":"10489",
+      "CompanyName":"3M Company",
+      "FilesProcessed":"2",
+      "LastReportedPeriod":"2020FY",
+      "LastFileProcessingDate":"2020-01-01T00:00:00",
+      "Sector":"Standard",
+      "Country":"US",
+      "Actions":"",
+      "QAPending":[
+        {
+          "DocumentId":"62921",
+          "NameOfFiling":"2019FY_SR_IR_PDF.pdf"
+        },
+        
+        {
+          "DocumentId":"54700",
+          "NameOfFiling":"2020FY_SR_IR_PDF.pdf"
+        }
+      ]
+  },
+      
+  {
+    "Id":"11809",
+    "CompanyName":"A.P. MOLLER - MAERSK A/S",
+    "FilesProcessed":"2",
+    "LastReportedPeriod":"",
+    "LastFileProcessingDate":"0001-01-01T00:00:00",
+    "Sector":"",
+    "Country":"DK",
+    "Actions":"",
+    "QAPending":[
+        {
+          "DocumentId":"55894",
+          "NameOfFiling":"2019FY_SR_IR_PDF.pdf"
+        },
+        
+        {
+          "DocumentId":"55889",
+          "NameOfFiling":"2020FY_SR_IR_PDF.pdf"
+        }
+    ] 
+
+  },
+
+  {
+    "Id":"11490",
+    "CompanyName":"ABM Investama Tbk PT",
+    "FilesProcessed":"2",
+    "LastReportedPeriod":"2020FY",
+    "LastFileProcessingDate":"2021-08-30T14:55:59.333",
+    "Sector":"Oil & Gas",
+    "Country":"ID",
+    "Actions":"",
+    "QAPending":[
+          {
+            "DocumentId":"38780",
+            "NameOfFiling":"2020FY_SR_IR_PDF.pdf"
+          },
+          
+          {
+            "DocumentId":"38779",
+            "NameOfFiling":"2019FY_SR_IR_PDF.pdf"
+          }
+      ]  
+  }
+]
